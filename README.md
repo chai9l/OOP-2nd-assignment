@@ -1,5 +1,5 @@
 
-![Logo](https://dcassetcdn.com/design_img/838187/464630/464630_4966391_838187_image.jpg)
+![Logo](https://previews.123rf.com/images/blazerrss/blazerrss1802/blazerrss180200102/95917638-elevator-logo-vector-design.jpg)
 
 
 
