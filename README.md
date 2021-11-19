@@ -1,5 +1,5 @@
 
-![Logo](https://previews.123rf.com/images/blazerrss/blazerrss1802/blazerrss180200102/95917638-elevator-logo-vector-design.jpg)
+![Logo](https://logopond.com/logos/c4a783a2db42c1b1d2c3c20fb4f7a737.png)
 
 
 
