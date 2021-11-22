@@ -84,12 +84,12 @@ Download this repository's zip-file
 | **Bx** | *represents one of the building json files, x represents which file* |
 | **Calls_x** | *represents one of the call csv files, x represents which file* |
 
-
+How to run:
 
 ```bash
   cd Path
-  python ElevatorAlgo.py 313589038,205569890 Ex1_Buildings\B.json Ex1_Calls/Calls_.csv Ex1_Calls/out_put_a.csv
-  Overall: python ElevatorAlgo.py id1,id2 building.json calls.csv output.csv
+  python Ex1.py 313589038,205569890 Ex1_Buildings\B.json Ex1_Calls/Calls_.csv Ex1_Calls/out_put_a.csv
+  Overall: python Ex1.py id1,id2 building.json calls.csv output.csv
 ```
     
 ## Authors
