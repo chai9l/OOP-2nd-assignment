@@ -8,7 +8,7 @@ from myelevator import myElevator
 from myBuilding import *
 
 
-class ElevatorAlgo:
+class Ex1:
 
     def load_buildings(self, file_name) -> myBuilding:
         global b
@@ -58,7 +58,7 @@ class ElevatorAlgo:
 
 
     def allocate_elevators(self, b: json, call_file: str, out_put: str):
-        algo = ElevatorAlgo()
+        algo = Ex1()
         building = algo.load_buildings(b)
         elev = building.elevators
         calls = algo.load_calls(call_file)
@@ -92,9 +92,8 @@ class ElevatorAlgo:
 
 
 
-algo = ElevatorAlgo()
-algo.allocate_elevators('Ex1_Buildings/B5.json', 'Ex1_Calls/Calls_d.csv', 'Ex1_Calls/out_put_a.csv')
-# algo.allocate_elevators(sys.argv[2], sys.argv[3], sys.argv[4])
-# Ex1_Buildings/B3.json Ex1_Calls/Calls_b.csv Ex1_Calls/out_put_a.csv
+algo = Ex1()
+algo.allocate_elevators(sys.argv[2], sys.argv[3], sys.argv[4])
+
 
 
